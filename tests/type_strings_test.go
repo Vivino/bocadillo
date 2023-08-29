@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/localhots/bocadillo/mysql"
+	"github.com/Vivino/bocadillo/mysql"
 )
 
 func TestStrings(t *testing.T) {

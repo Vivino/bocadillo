@@ -1,7 +1,7 @@
 package binlog
 
 import (
-	"github.com/localhots/bocadillo/buffer"
+	"github.com/Vivino/bocadillo/buffer"
 )
 
 // QueryEvent contains query details.

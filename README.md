@@ -6,8 +6,8 @@ Bocadillo is a client for MySQL binary log. It is not a complete solution (yet).
 
 Example use:
 ```go
-// import "github.com/localhots/bocadillo/reader"
-// import "github.com/localhots/bocadillo/reader/driver"
+// import "github.com/Vivino/bocadillo/reader"
+// import "github.com/Vivino/bocadillo/reader/driver"
 
 reader, err := reader.New("root@(127.0.0.1:3306)/testdb", driver.Config{
 	ServerID: 1000,               // Arbitrary unique ID

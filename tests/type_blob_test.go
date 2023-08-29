@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/localhots/bocadillo/mysql"
+	"github.com/Vivino/bocadillo/mysql"
 )
 
 func TestTinyblob(t *testing.T) {

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"runtime/debug"
 
-	"github.com/localhots/bocadillo/buffer"
-	"github.com/localhots/bocadillo/mysql"
+	"github.com/Vivino/bocadillo/buffer"
+	"github.com/Vivino/bocadillo/mysql"
 )
 
 // RowsEvent contains a Rows Event.

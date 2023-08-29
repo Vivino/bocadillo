@@ -1,6 +1,6 @@
 package binlog
 
-import "github.com/localhots/bocadillo/mysql"
+import "github.com/Vivino/bocadillo/mysql"
 
 // XIDEvent contains an XID (XA transaction identifier)
 // https://dev.mysql.com/doc/refman/5.7/en/xa.html

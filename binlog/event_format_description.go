@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/localhots/bocadillo/buffer"
+	"github.com/Vivino/bocadillo/buffer"
 )
 
 // FormatDescription is a description of binary log format.

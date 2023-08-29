@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Vivino/bocadillo/mysql"
+	"github.com/Vivino/bocadillo/reader"
 	"github.com/google/go-cmp/cmp"
-	"github.com/localhots/bocadillo/mysql"
-	"github.com/localhots/bocadillo/reader"
 )
 
 type testSuite struct {

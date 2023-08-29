@@ -1,6 +1,6 @@
 package binlog
 
-import "github.com/localhots/bocadillo/buffer"
+import "github.com/Vivino/bocadillo/buffer"
 
 // Position is a pair of log file name and a binary offset in it that is used to
 // represent the beginning of the event description.

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/localhots/bocadillo/mysql"
+	"github.com/Vivino/bocadillo/mysql"
 )
 
 func TestYear(t *testing.T) {
