@@ -3,9 +3,9 @@ package reader
 import (
 	"context"
 
+	"github.com/Vivino/bocadillo/binlog"
+	"github.com/Vivino/bocadillo/mysql/driver"
 	"github.com/juju/errors"
-	"github.com/localhots/bocadillo/binlog"
-	"github.com/localhots/bocadillo/mysql/driver"
 )
 
 // Reader is a binary log reader.

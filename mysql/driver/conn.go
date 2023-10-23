@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/localhots/bocadillo/buffer"
-	"github.com/localhots/bocadillo/mysql/driver/internal/mysql"
+	"github.com/Vivino/bocadillo/buffer"
+	"github.com/Vivino/bocadillo/mysql/driver/internal/mysql"
 )
 
 // Conn is a connection used to issue a binlog dump command.

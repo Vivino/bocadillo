@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/localhots/bocadillo/mysql"
+	"github.com/Vivino/bocadillo/mysql"
 )
 
 func TestFloat(t *testing.T) {

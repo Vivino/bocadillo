@@ -3,7 +3,7 @@ package binlog
 import (
 	"errors"
 
-	"github.com/localhots/bocadillo/buffer"
+	"github.com/Vivino/bocadillo/buffer"
 )
 
 var (

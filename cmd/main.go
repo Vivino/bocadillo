@@ -11,9 +11,9 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/Vivino/bocadillo/mysql/driver"
+	"github.com/Vivino/bocadillo/reader"
 	"github.com/juju/errors"
-	"github.com/localhots/bocadillo/mysql/driver"
-	"github.com/localhots/bocadillo/reader"
 )
 
 func main() {

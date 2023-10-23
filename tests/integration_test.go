@@ -9,9 +9,9 @@ import (
 
 	_ "github.com/go-sql-driver/mysql"
 
-	"github.com/localhots/bocadillo/binlog"
-	"github.com/localhots/bocadillo/mysql/driver"
-	"github.com/localhots/bocadillo/reader"
+	"github.com/Vivino/bocadillo/binlog"
+	"github.com/Vivino/bocadillo/mysql/driver"
+	"github.com/Vivino/bocadillo/reader"
 )
 
 var suite *testSuite

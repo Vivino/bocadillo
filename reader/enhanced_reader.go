@@ -6,11 +6,11 @@ import (
 
 	_ "github.com/go-sql-driver/mysql" // MySQL driver
 
+	"github.com/Vivino/bocadillo/binlog"
+	"github.com/Vivino/bocadillo/mysql"
+	"github.com/Vivino/bocadillo/mysql/driver"
+	"github.com/Vivino/bocadillo/reader/schema"
 	"github.com/juju/errors"
-	"github.com/localhots/bocadillo/binlog"
-	"github.com/localhots/bocadillo/mysql"
-	"github.com/localhots/bocadillo/mysql/driver"
-	"github.com/localhots/bocadillo/reader/schema"
 )
 
 // EnhancedReader is an extended version of the reader that maintains schema

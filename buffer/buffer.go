@@ -3,7 +3,7 @@ package buffer
 import (
 	"encoding/binary"
 
-	"github.com/localhots/bocadillo/mysql"
+	"github.com/Vivino/bocadillo/mysql"
 )
 
 // Buffer is a simple wrapper over a slice of bytes with a cursor. It allows for

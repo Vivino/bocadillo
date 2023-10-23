@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/localhots/bocadillo/mysql"
+	"github.com/Vivino/bocadillo/mysql"
 )
 
 func TestJSON(t *testing.T) {

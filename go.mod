@@ -1,4 +1,4 @@
-module github.com/localhots/bocadillo
+module github.com/Vivino/bocadillo
 
 require (
 	github.com/go-sql-driver/mysql v1.4.1
